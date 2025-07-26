@@ -49,7 +49,7 @@ const AppShowcase = () => {
         <div className="showcaselayout">
           <div ref={rydeRef} className="first-project-wrapper">
             <div className="image-wrapper">
-              <img src="/public/images/Barber.png" alt="Ryde App Interface" />
+              <img src="/images/Barber.png" alt="Ryde App Interface" />
             </div>
             <div className="text-content">
               <h2>
@@ -67,7 +67,7 @@ to deliver a smooth, animated, and responsive grooming experience.
             <div className="project" ref={libraryRef}>
               <div className="image-wrapper bg-[#FFEFDB]">
                 <img
-                  src="/public/images/csrtselector.png"
+                  src="/images/csrtselector.png"
                   alt="Library Management Platform"
                 />
               </div>
@@ -76,7 +76,7 @@ to deliver a smooth, animated, and responsive grooming experience.
 
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
-                <img src="/public/images/WordAndSpeedGame.png" alt="YC Directory App" />
+                <img src="/images/WordAndSpeedGame.png" alt="YC Directory App" />
               </div>
               <h2>The Word & Speed Analyzer Tool</h2>
             </div>
