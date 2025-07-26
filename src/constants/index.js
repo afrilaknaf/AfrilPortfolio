@@ -133,12 +133,6 @@ const techStackIcons = [
     scale: 0.05,
     rotation: [0, -Math.PI / 4, 0],
   },
-    {
-    name: "CyberSecruity",
-    modelPath: "/public/models/kali_linux.glb",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
-  },
 ];
 
 const expCards = [
